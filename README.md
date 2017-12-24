@@ -5,3 +5,6 @@
  Twitter API. Various tweets related to the shows are collected using the Twitter API. 
  
 - This project applies **_Kafka, Spark, Flume, Hive_** to store, clean, and analyze this data.
+
+![system_design.PNG](./system_design.PNG)
+
